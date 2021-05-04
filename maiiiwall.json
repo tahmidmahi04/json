@@ -12,6 +12,7 @@
 		"name": "Dark 2",
 		"author": "Tahmid Mahi",
 		"url": "hhttps://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image2.jpeg",
+	        "dimensions": "3200x2560",
 		"collections": "Dark"
 	},
 	{
@@ -19,71 +20,69 @@
 		"author": "Tahmid Mahi",
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image3.jpeg",
 		"dimensions": "3200x2560",
-		"collections": "people,city",
-		"downloadable": false
+		"collections": "Dark",
 	},
 	{
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-		"name": "ShotC",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image4.jpeg",
+		"name": "Dark 4",
 		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
+		"copyright": "Tahmid Mahi",
+		"collections": "Dark"
 	},
 	{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
+		"name": "Color Illustration 1",
+		"author": "Tahmid Mahi",
 		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
-		"featured": true
+		"copyright": "Tahmid Mahi",
+		"collections": "Color Illustration",
 	},
 	{
-		"name": "Wallsplash 2",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+		"name": "Color Illustration 2",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image6.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image6.jpeg",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
+		"copyright": "Tahmid Mahi",
+		"collections": "Color Illustration"
 	},
 	{
-		"name": "Wallsplash 3",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
+		"name": "Color Illustration 3",
+		"author": "Tahmid Mah",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image7.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image7.jpg",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
+		"copyright": "Tahmid Mahi",
+		"collections": "Color Illustration"
 	},
 	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+		"name": "Color Illustration 4",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image8.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image8.jpg",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
+		"copyright": "Tahmid Mahi",
+		"collections": "Color Illustration 2.0"
 	},
 	{
-		"name": "Wallsplash 5",
+		"name": "Color Illustration 5",
 		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image9.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image9.jpeg",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
+		"copyright": "Tahmid Mahi",
+		"collections": "Color Illustration 2.0"
 	},
 	{
-		"name": "Wallsplash 6",
+		"name": "Color Illustration 6",
 		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image10.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image10.jpeg",
 		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
+		"copyright": "Tahmid Mahi",
+		"collections": "Color Illustration 2.0"
 	},
 	{
 		"name": "Wallsplash 7",
