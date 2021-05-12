@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Cold & Calm 1",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image41.png",
+	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image41.png",
+	        "dimensions": "3200x2560",
+	        "copyright": "Tahmid Mahi",
+		"collections": "Cold & Calm"
+	},
+	{
+		"name": "Living Illustration 3",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image42.jpg",
+	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image42.jpg",
+	        "dimensions": "3200x2560",
+	        "copyright": "Tahmid Mahi",
+		"collections": "Living Illustration"
+	},
+	{
 		"name": "Living Illustration 2",
 		"author": "Tahmid Mahi",
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image40.jpg",
