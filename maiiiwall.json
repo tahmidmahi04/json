@@ -1,5 +1,23 @@
 [
-      {
+	{
+		"name": "Living Illustration 2",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image40.jpg",
+	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image40.jpg",
+	        "dimensions": "3200x2560",
+	        "copyright": "Tahmid Mahi",
+		"collections": "Living Illustration"
+	},
+	{
+		"name": "Living Illustration 1",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image39.png",
+	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image39.png",
+	        "dimensions": "3200x2560",
+	        "copyright": "Tahmid Mahi",
+		"collections": "Living Illustration"
+	},
+        {
 		"name": "Dark 1",
 		"author": "Tahmid Mahi",
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image1.jpeg",
@@ -8,12 +26,13 @@
 		"copyright": "Tahmid Mahi",
 		"collections": "Dark"
 	},
-      {
+        {
 		"name": "Dark 2",
 		"author": "Tahmid Mahi",
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image2.jpeg",
 	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image2.jpeg",
 	        "dimensions": "3200x2560",
+	        "copyright": "Tahmid Mahi",
 		"collections": "Dark"
 	},
 	{
@@ -22,6 +41,7 @@
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image3.jpeg",
 		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image3.jpeg",
 		"dimensions": "3200x2560",
+		"copyright": "Tahmid Mahi",
 		"collections": "Dark",
 	},
 	{
@@ -129,6 +149,7 @@
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image15.jpeg",
 	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image15.jpeg",
 	        "dimensions": "3200x2560",
+		"copyright": "Tahmid Mahi",
 		"collections": "Dark"
 	},
 	{
@@ -137,6 +158,7 @@
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image16.jpeg",
 		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image16.jpeg",
 		"dimensions": "3200x2560",
+		"copyright": "Tahmid Mahi",
 		"collections": "Dark",
 	},
 	{
@@ -280,6 +302,7 @@
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image32.jpg",
 	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image32.jpg",
 	        "dimensions": "3200x2560",
+		"copyright": "Tahmid Mahi",
 		"collections": "Color Illustration 2.0"
 	},
 	{
@@ -288,6 +311,7 @@
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image33.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image33.jpg",
 		"dimensions": "3200x2560",
+		"copyright": "Tahmid Mahi",
 		"collections": "Color Illustration 2.0",
 	},
 	{
