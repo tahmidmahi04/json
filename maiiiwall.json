@@ -1,5 +1,59 @@
 [
 	{
+		"name": "Cold & Calm 5",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image47.jpg",
+	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image47.jpg",
+	        "dimensions": "3200x2560",
+	        "copyright": "Tahmid Mahi",
+		"collections": "Cold & Calm"
+	},
+	{
+		"name": "Cold & Calm 6",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image48.png",
+	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image48.png",
+	        "dimensions": "3200x2560",
+	        "copyright": "Tahmid Mahi",
+		"collections": "Cold & Calm"
+	},
+        {
+		"name": "Exceptional 2",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image45.jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image45.jpeg",
+		"dimensions": "3200x2560",
+		"copyright": "Tahmid Mahi",
+		"collections": "Exceptional"
+	},
+        {
+		"name": "Cold & Calm 4",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image46.jpg",
+	        "thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image46.jpg",
+	        "dimensions": "3200x2560",
+	        "copyright": "Tahmid Mahi",
+		"collections": "Cold & Calm"
+	},
+	{
+		"name": "Cold & Calm 2",
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image43.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image43.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Tahmid Mahi",
+		"collections": "Cold & Calm",
+	},
+	{
+		"author": "Tahmid Mahi",
+		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image44.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image44.jpg",
+		"name": "Cold & Calm 3",
+		"dimensions": "1280x720",
+		"copyright": "Tahmid Mahi",
+		"collections": "Cold & Calm"
+	},
+	{
 		"name": "Cold & Calm 1",
 		"author": "Tahmid Mahi",
 		"url": "https://raw.githubusercontent.com/tahmidmahi04/json/main/MaiiiWall/Wallpaper/image41.png",
